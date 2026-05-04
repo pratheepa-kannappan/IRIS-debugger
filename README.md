@@ -1,4 +1,4 @@
-# 🐛 IRIS AI — Python Visualizer, Visual Debugger & AI Tutor
+# 🐛 IRIS AI — Python Visual Debugger 
 
 > Understand Python errors instantly. Paste your traceback, get a clear explanation, root causes, and a working fix — powered by LLM inference via Groq.
 
