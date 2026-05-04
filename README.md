@@ -185,31 +185,11 @@ ERROR: pip's dependency resolver conflict — numpy 2.4.4 incompatible with numb
 ## 🗺 Roadmap
 
 - [ ] Code execution sandbox — run buggy code and capture live errors
-- [ ] Multi-turn chat for follow-up questions
-- [ ] Support for JavaScript, Java, and Rust error analysis
-- [ ] Error history and session memory
-- [ ] VS Code extension integration
+- [ ] Support for JavaScript, Java, and Rust error analysis if you change the prompt_builder
 - [ ] Agentic mode — model autonomously searches docs and retries fixes
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
-
-1. Fork the repo
-2. Create your feature branch: `git checkout -b feature/my-feature`
-3. Commit your changes: `git commit -m 'Add my feature'`
-4. Push to the branch: `git push origin feature/my-feature`
-5. Open a pull request
-
----
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
 
 ## 👨‍💻 Author
 
