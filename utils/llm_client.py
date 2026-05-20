@@ -1,12 +1,4 @@
-import os
-from groq import Groq
-from dotenv import load_dotenv
 
-load_dotenv()
-
-class LLMClient:
-    def __init__(self):
-        self.client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
     def get_response(self, prompt):
         response = self.client.chat.completions.create(
