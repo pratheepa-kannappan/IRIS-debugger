@@ -10,7 +10,7 @@ class LLMClient:
 
     def get_response(self, prompt):
         response = self.client.chat.completions.create(
-            model="llama-3.1-8b-instant",   # ✅ updated model
+            model="llama-3.1-8b-instant",   
             messages=[
                 {"role": "system", "content": "You are a helpful debugging assistant."},
                 {"role": "user", "content": prompt}
