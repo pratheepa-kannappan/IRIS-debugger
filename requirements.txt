@@ -1,3 +1,5 @@
 streamlit
-openai
-python-dotenv
+groq
+pandas
+numpy
+scikit-learn
